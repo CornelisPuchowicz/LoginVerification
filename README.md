@@ -1,2 +1,2 @@
 # LoginVerification
-Simple project for login verification where program recognises saved Login + Password
+Simple project for login verification where program recognises saved Login + Password made with Java.
